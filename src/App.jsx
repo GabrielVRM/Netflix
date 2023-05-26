@@ -1,7 +1,7 @@
 import getHomeList from './Tmdb'
 import { getMovieInfo } from './Tmdb';
 import FeaturedMovie from './Screens/MovieHome/Index';
-import loader from 'C:/Users/gabri/OneDrive/Área de Trabalho/Netflix/netflix/public/loader.gif'
+import loader from 'C:/Users/Gabriel Maximo/Desktop/Netflix/Netflix/public/loader.gif'
 import './App.css'
 import { useEffect, useState } from 'react'
 import MovieRow from './Screens/MovieRow/Index';
